@@ -1,0 +1,51 @@
+h1 {
+  font-family: impact;
+  font-size: 55px;
+  color: #26A3AB;
+  text-align: left;
+}
+
+h2 {
+  font-family: impact;
+  font-size: 40px;
+  color: #264CAB;
+  text-align:left;
+}
+
+h3 {
+  font-family: arial black;
+  font-size: 35px
+  color: #5026AB;
+  text-align:left;
+}
+
+h4 {
+  font-family: arial black;
+  font-size: 30px
+  color: #5026AB;
+  text-align:left;
+}
+
+ul {
+  font-family: times;
+  font-size: 20px;
+  text-align: left;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: times;
+  font-size: 20px;
+  text-align: left;
+  font-style: italic;
+}
+
+body {
+  background-color: #F0EEEE;
+}
+
+img {
+  width: 700px;
+}
